@@ -1,17 +1,17 @@
 
 
-# 👋 Hi, I'm Mahmoud Mohamed
+# 👋 Hi, I'm AbdulRahman Taha
 
 <p align="center">
   <img src="banner.png" alt="Banner" width="100%">
 </p>
 
 <h3 align="center">
-🚀 Full-Stack Developer (MERN / Next.js) | Engineering Student | DEPI Trainee
+🚀 Full-Stack Developer (MERN) | Engineering Student | DEPI Trainee
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+(MERN);React+%26+Next.js+Developer;PostgreSQL+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+(MERN);React+Developer;Next.js+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -19,8 +19,8 @@
 ## 👨‍💻 About Me
 
 ```javascript
-const Mahmoud = {
-  role: "Full-Stack Developer (MERN / Next.js)",
+const AbdulRahman = {
+  role: "Full-Stack Developer (MERN)",
   education: "Faculty of Engineering - Systems & Computers",
   status: "Final Year Student",
   internship: "DEPI Trainee",
@@ -28,12 +28,14 @@ const Mahmoud = {
   currentlyLearning: [
     "Next.js",
     "TypeScript",
-    "PostgreSQL",
     "Docker",
     "System Design",
     "Problem Solving"
   ]
+  }
 };
+```
+
 ---
 
 ## 🌐 Connect With Me
@@ -111,10 +113,21 @@ Building a scalable MERN marketplace platform.
 
 ## 📊 GitHub Stats
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AbuIRahmanTaha&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuIRahmanTaha&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AbuIRahmanTaha&theme=tokyonight&margin-w=15" />
+</p>
 
 ---
 
