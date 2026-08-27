@@ -116,7 +116,6 @@ Building a scalable MERN marketplace platform.
 
 ## 🏆 GitHub Trophies
 
-
 ---
 
 ## 🎯 2026 Goals
