@@ -1,6 +1,6 @@
 
 
-# 👋 Hi, I'm AbdulRahman Taha
+# 👋 Hi, I'm Mahmoud Mohamed
 
 <p align="center">
   <img src="banner.png" alt="Banner" width="100%">
@@ -19,7 +19,7 @@
 ## 👨‍💻 About Me
 
 ```javascript
-const AbdulRahman = {
+const Mahmoud = {
   role: "Full-Stack Developer (MERN)",
   education: "Faculty of Engineering - Systems & Computers",
   status: "Final Year Student",
@@ -41,7 +41,7 @@ const AbdulRahman = {
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/abdulrahmantaha39">
+  <a href="https://www.linkedin.com/in/mahmoud-mohamed-6692932a3">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
