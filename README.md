@@ -29,6 +29,7 @@ const Mahmoud = {
     "Next.js",
     "TypeScript",
     "PostgreSQL",
+    "Docker",
     "System Design",
     "Problem Solving"
   ]
@@ -122,9 +123,6 @@ Building a scalable MERN marketplace platform.
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AbuIRahmanTaha&theme=tokyonight&margin-w=15" />
-</p>
 
 ---
 
