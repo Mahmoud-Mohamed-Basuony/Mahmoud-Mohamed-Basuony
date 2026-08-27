@@ -111,13 +111,6 @@ Building a scalable MERN marketplace platform.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AbuIRahmanTaha&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuIRahmanTaha&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
