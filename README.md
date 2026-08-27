@@ -2,10 +2,6 @@
 
 # 👋 Hi, I'm Mahmoud Mohamed
 
-<p align="center">
-  <img src="banner.png" alt="Banner" width="100%">
-</p>
-
 <h3 align="center">
 🚀 Full-Stack Developer (MERN) | Engineering Student | DEPI Trainee
 </h3>
@@ -45,7 +41,7 @@ const Mahmoud = {
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
-  <a href="https://abulrahmantaha.github.io/Portfolio/">
+  <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge" />
   </a>
 </p>
@@ -75,7 +71,7 @@ const Mahmoud = {
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,firebase,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,firebase,figma,vscode,Postman" />
 </p>
 
 ---
