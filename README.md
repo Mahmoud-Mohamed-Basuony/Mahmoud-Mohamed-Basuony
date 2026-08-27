@@ -1,17 +1,17 @@
 
 
-# 👋 Hi, I'm AbdulRahman Taha
+# 👋 Hi, I'm Mahmoud Mohamed
 
 <p align="center">
   <img src="banner.png" alt="Banner" width="100%">
 </p>
 
 <h3 align="center">
-🚀 Full-Stack Developer (MERN) | Engineering Student | DEPI Trainee
+🚀 Full-Stack Developer (MERN / Next.js) | Engineering Student | DEPI Trainee
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+(MERN);React+Developer;Next.js+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+(MERN);React+%26+Next.js+Developer;PostgreSQL+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -19,8 +19,8 @@
 ## 👨‍💻 About Me
 
 ```javascript
-const AbdulRahman = {
-  role: "Full-Stack Developer (MERN)",
+const Mahmoud = {
+  role: "Full-Stack Developer (MERN / Next.js)",
   education: "Faculty of Engineering - Systems & Computers",
   status: "Final Year Student",
   internship: "DEPI Trainee",
@@ -28,14 +28,11 @@ const AbdulRahman = {
   currentlyLearning: [
     "Next.js",
     "TypeScript",
-    "Docker",
+    "PostgreSQL",
     "System Design",
     "Problem Solving"
   ]
-  }
 };
-```
-
 ---
 
 ## 🌐 Connect With Me
